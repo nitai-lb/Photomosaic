@@ -9,4 +9,5 @@ photomosaic.py - The main app.
 Usage:
 
 In terminal you should write the next command:
-photomosaic.py <image_source> <images_dir> <output_name> <tile_height> <num_candidates>
+
+  photomosaic.py <image_source> <images_dir> <output_name> <tile_height> <num_candidates>
